@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FunBooksAndVideos.DataLayer\FunBooksAndVideos.DataLayer.csproj" />
+    <ProjectReference Include="..\FunBooksAndVideos.Entities\FunBooksAndVideos.Entities.csproj" />
+    <ProjectReference Include="..\FunBooksAndVideos.Helpers\FunBooksAndVideos.Helpers.csproj" />
+    <ProjectReference Include="..\FunBooksAndVideos.Models\FunBooksAndVideos.Models.csproj" />
+    <ProjectReference Include="..\FunBooksAndVideos.ViewModels\FunBooksAndVideos.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

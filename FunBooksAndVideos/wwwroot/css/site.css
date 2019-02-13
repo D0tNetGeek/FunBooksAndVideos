@@ -1,0 +1,23 @@
+﻿[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak { display: none !important; }
+
+body { padding-top: 50px; padding-bottom: 20px; }
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content { padding-left: 15px; padding-right: 15px; min-height: 500px; }
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea { max-width: 280px; }
+
+.spacer0 { clear: both; height: 0 !important; }
+.spacer1 { clear: both; height: 1px !important; }
+.spacer5 { clear: both; height: 5px !important; }
+.spacer10 { clear: both; height: 10px !important; }
+.spacer15 { clear: both; height: 15px !important; }
+.spacer20 { clear: both; height: 20px !important; }
+.spacer30 { clear: both; height: 30px !important; }
+.spacer50 { clear: both; height: 50px !important; }
+
+.grid td { vertical-align: middle !important; }
